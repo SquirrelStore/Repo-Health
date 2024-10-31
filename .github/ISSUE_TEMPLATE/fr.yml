@@ -46,10 +46,10 @@ body:
       description: |
         How important is this feature to you and the project?
       options:
-        - label: High
-        - label: Medium
-        - label: Low
-      default: Low
+        - High
+        - Medium
+        - Low
+      default: 2
     validations:
       required: true
 
